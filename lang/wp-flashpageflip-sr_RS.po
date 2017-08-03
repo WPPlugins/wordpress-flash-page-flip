@@ -1,0 +1,331 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Plugin Flash PAge Flip\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-11-03 09:01-0300\n"
+"PO-Revision-Date: 2013-10-09 12:13+0100\n"
+"Last-Translator: Andres Molina <andres.slp@gmail.com>\n"
+"Language-Team: Andres Molina dot org <amolina@andresmolina.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Language: es_ES\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#: pageflip.php:31
+msgid "You are not allowed to call this page directly."
+msgstr "Nije vam dozvoljeno da pozivate ovu stranicu direktno."
+
+#: pageflip.php:39
+msgid "Wordpress Flash PageFlip"
+msgstr "Wordpress Flash PageFlip"
+
+#: pageflip.php:39
+msgid "Flash Page Flip"
+msgstr "Flash Page Flip"
+
+#: pageflip.php:43
+msgid "Configuracion de Wordpress Flash Page Flip"
+msgstr "Wordpress Flash Page Flip postavke"
+
+#: pageflip.php:43
+msgid "Configuracion"
+msgstr "Postavke"
+
+#: pageflip.php:46
+msgid "Acerca de Wordpress Flash Page Flip"
+msgstr "O Wordpress Flash Page Flip"
+
+#: pageflip.php:46 pageflip.php:195
+msgid "Acerca de"
+msgstr "O"
+
+#: pageflip.php:49
+msgid "Instalar archivo base"
+msgstr "Instalirajte bazni fajla"
+
+#: pageflip.php:49
+msgid "Instalar Archivo base"
+msgstr "Instalirajte bazni fajla"
+
+#: pageflip.php:61
+msgid "Tienes instalado el archivo Base."
+msgstr "Bazni fajla je u redu."
+
+#: pageflip.php:63
+msgid "Error: Debes subir el archivo base.zip en esta ruta: "
+msgstr "Error: uploadujte bazni fajl u ovu putanju:"
+
+#: pageflip.php:70
+msgid "Debes elejir la pagina base donde publicaras los Page Flip"
+msgstr ""
+"Selektujte Stranicu prvog nivoa (dete stranice sa PAge Flip su stvorene ovde)"
+
+#: pageflip.php:78
+msgid "Administracion de Wordpress Page Flip Book"
+msgstr "Administracija -  Wordpress Page Flip Book"
+
+#: pageflip.php:83
+msgid "Chequeo del Plugin"
+msgstr "Provera plugina"
+
+#: pageflip.php:90
+msgid "Flip Book Base:"
+msgstr "Flip Book baza"
+
+#: pageflip.php:91
+msgid "Pagina Base"
+msgstr "Bazna stranica"
+
+#: pageflip.php:93
+msgid "Las siguiente opciones se cambian en el archivo"
+msgstr "Sledećeopcije su promenjene u fajlu"
+
+#: pageflip.php:94
+msgid "Ancho"
+msgstr "Širina"
+
+#: pageflip.php:95
+msgid "Alto"
+msgstr "Visina"
+
+#: pageflip.php:96
+msgid "Variable Option con el tamano del Thumbnail"
+msgstr "Veličina thumbnail-a"
+
+#: pageflip.php:97
+msgid "Target(para los thumnails de la pagina principal)"
+msgstr "Target (thumbnail-ovi glavne/roditelj stranice)"
+
+#: pageflip.php:98
+msgid "Color de fondo"
+msgstr "Boja pozadine"
+
+#: pageflip.php:99
+msgid "Color del cargador"
+msgstr "Boja loader-a"
+
+#: pageflip.php:100
+msgid "Color del panel"
+msgstr "Boja panela"
+
+#: pageflip.php:101
+msgid "Color de Botones"
+msgstr "Boja dugmića"
+
+#: pageflip.php:102
+msgid "Color del Texto"
+msgstr "Boja teksta"
+
+#: pageflip.php:103
+msgid "Nombre de la carpeta"
+msgstr "Ime foldera (u wp-sadržaju)"
+
+#: pageflip.php:146
+msgid "Options saved."
+msgstr "Promene su sačuvane"
+
+#: pageflip.php:157
+msgid "Configuracion de Wordpress Page Flip Book"
+msgstr "Postavke  Wordpress Page Flip Book"
+
+#: pageflip.php:161
+msgid "Configuracion de la pagina principal"
+msgstr "Postavke glavne/roditelj stranice"
+
+#: pageflip.php:162
+msgid "Debe indicar bajo que pagina ser&aacute;n creados los flipbooks"
+msgstr ""
+"Morate odabrati roditeljsku stranicu(dete stranice sa  Page Flip su stvorene "
+"ovde)"
+
+#: pageflip.php:163
+msgid "Seleccione la pagina padre: "
+msgstr "Izaberite glavnu/roditelj stranicu:"
+
+#: pageflip.php:184
+msgid "Update Options"
+msgstr "update opcija"
+
+#: pageflip.php:196
+msgid ""
+"Copyright 2010  Andres Ramiro Molina Romero  (email : amolina@andresmolina."
+"org)"
+msgstr ""
+"Copyright 2010 Andres Ramiro Molina Romero (email : amolina@andresmolina.org)"
+
+#: pageflip.php:197
+msgid ""
+"Plugin Name: Wordpress Flash Page Flip<br>\n"
+"Plugin URI: http://andresmolina.org<br>\n"
+"Description: Crea un flip book.<br>\n"
+"Version:1.0<br>\n"
+"Author: Andrés Molina<br>\n"
+"Author URI: http://andresmolina.org<br>\n"
+"License: GPL2</p>"
+msgstr ""
+"Ime plugina: Wordpress Flash Page Flip<br>\n"
+"Plugin URI: http://andresmolina.org<br>\n"
+"Description: Crea un flip book.<br>\n"
+"Version:1.0<br>\n"
+"Author: Andrés Molina<br>\n"
+"Author URI: http://andresmolina.org<br>\n"
+"License: GPL2</p>"
+
+#: pageflip.php:210
+msgid "El archivo se subi&oacute;, comprobando archivo"
+msgstr "Fajl uploadovan, provera fajla"
+
+#: pageflip.php:234
+msgid ""
+"El archivo se subi&oacute; con el nombre base.zip, dentro de la carpeta de "
+"tu plugin"
+msgstr "Fajl je uploadovan sa imenom baze.zip, u folderu ovog plugina"
+
+#: pageflip.php:236
+msgid "Ocurrio un problema al subir el archivo, intenta subiendolo por FTP."
+msgstr "Ako imate problem sa uploadom fajla, pokušajte da uploadujete FTP."
+
+#: pageflip.php:241 pageflip.php:307
+msgid ""
+"El archivo zip debe contener una carpeta llamada <strong>Free Version</"
+"strong>."
+msgstr ""
+"Zip fajl bi trebao da sadrži folder pod imenom <strong>Free Version</strong>."
+
+#: pageflip.php:247
+msgid ""
+"El archivo sobrepasa el limite autorizado por el servidor(archivo php.ini) !"
+msgstr "Uploadovani fajl prelazi upload_max_filesize direktive u php.ini."
+
+#: pageflip.php:250
+msgid "El archivo sobrepasa el limite autorizado en el formulario HTML !"
+msgstr ""
+"Uploadovani fajl prelazi MAX_FILE_SIZE direktive namenjene posebno za HTML "
+"form"
+
+#: pageflip.php:253
+msgid "El envio del archivo ha sido suspendido durante la transferencia!"
+msgstr "Uploadovani deo je samo delimično uploadovan."
+
+#: pageflip.php:256
+msgid "El archivo que ha enviado tiene un tamano nulo !"
+msgstr "Nijedan fajl nije uploadovan"
+
+#: pageflip.php:259
+msgid "No pudimos encontrar el archivo temporal"
+msgstr "Fali vam privremeni fajl. Predstavljeno u PHP 4.3.10 i PHP 5.0.3."
+
+#: pageflip.php:262
+msgid "Fallo en la escritura del archivo en el disco !"
+msgstr "Nije uspelo pisanje fajla na disk. Predstavljeno u PHP 5.1.0."
+
+#: pageflip.php:265
+msgid "Una extension de php detuvo la subida del archivo !"
+msgstr ""
+"PHP ekstenzija je zaustavila upload fajla.PHP ne omogućava način da na "
+"ekstenzije ne izazovu zaustavljanje; lista ispitivanja loadovanih ekstenzija "
+"sa phpinfo() može pomoći. Predstavljeno u PHP 5.2.0 "
+
+#: pageflip.php:281
+msgid "Intentando obtener el archivo desde la URL, comprobando archivo"
+msgstr "Pokušava da dobije fajl iz URLa; provera fajla"
+
+#: pageflip.php:305
+msgid "El archivo subio como base.zip a la carpeta de su plugin"
+msgstr "Fajl je sačuvan sa bazom imena.zip u folderu plugina"
+
+#: pageflip.php:314
+msgid ""
+"La url proporcionada no es valida, debe contener un archivo zip y debe "
+"comenzar por <strong>http://www.flashpageflip.com</strong>."
+msgstr ""
+"Url nije validan, mora da sadrži zip fajl i domain je <strong>http://www."
+"flashpageflip.com</strong>."
+
+#: pageflip.php:320
+msgid "Instalar Archivo Base de Flash Page Flip"
+msgstr "Instaliraj bazu fajla Flash Page Flip"
+
+#: pageflip.php:321
+msgid ""
+"<p>Necesitas subir <strong>Flash Page Flip</strong>, puedes copiarlo <a "
+"href='http://www.flashpageflip.com/downloads/FreeVersion/"
+"FlashPageFlip_FreeVersion.zip'>directamente desde la web del fabricante</a>  "
+"o subirlo desde tu computador.<br><br>Antes de subirlo necesitas leer y "
+"aceptar los terminos de uso<br><br>"
+msgstr ""
+"<p>Treba da uploadujete<strong>Flash Page Flip</strong>, možete da "
+"kopirate<a href='http://www.flashpageflip.com/downloads/FreeVersion/"
+"FlashPageFlip_FreeVersion.zip'> the creators webpage </a> ili da uploadujete "
+"sa kompjutera.<br><br>Pre uploada treba da pročitate i prihvatite Uslove "
+"korišćenja <br><br>"
+
+#: pageflip.php:325
+msgid ""
+"Puedes leer los terminos y condiciones desde <a href=\"http://www."
+"flashpageflip.com/Terms-of-Use.asp\" target=\"_blank\">la pagina del "
+"fabricante</a> o desde la copia de abajo:"
+msgstr ""
+"Možete pročitati uslove korišćenja<a href=\"http://www.flashpageflip.com/"
+"Terms-of-Use.asp\" target=\"_blank\"> the creators webpage</a> ili sa kopije "
+"ispod:"
+
+#: pageflip.php:327
+msgid ""
+"<ul>\n"
+"    \t<li>Do not use FPF in web sites providing any kind of illegal content "
+"such as pornography, sexuality, adult content, gambling, betting, alcohol or "
+"tobacco use, drug abuse etc...</li>\n"
+"\t\t<li>You can only edit allowed areas on FPF and you cannot deformate "
+"except these areas.</li>\n"
+"\t\t<li>You can't offer FPF for use of any other individuals. Anywise you "
+"can't give FPF somebody else.</li>\n"
+"\t\t<li> You can't use FPF more than the allowed quota of licence which you "
+"bought.</li>\n"
+"\t\t<li>The prices are valid for received product. We don't guarantee new "
+"updates but perhaps we will inform you something new.</li>\n"
+"\t\t<li> Do not forget that disobedience to any of rules listed above is a "
+"crime and puts you under legal resbonsibility.</li>\n"
+"\t\t<li>You agree all rules when you purchase any version of Flash Page Flip."
+"</li>\n"
+"\t</ul>"
+msgstr ""
+"<ul>\n"
+" \t<li>Ne koristite FPF u web sajtovima koji pružaju bilo kakav ilegalni "
+"sadržaj kao što je pornografija, seksualnost,sadržaj za odrasle,kockanje,"
+"kladjenje,upotreba alkohola ili nikotina,upotreba droge itd...</li>\n"
+"\t\t<li>Možete da editujete dozvoljena područja na FPF i ne možete da "
+"deformišete bilo koja sem ovih područja. </li>\n"
+"\t\t<li>Možete da ponudite FPF za bilo koju drugu individualnu upotrebu. Ali "
+"ne možete da date nekom drugom FPF</li>\n"
+"\t\t<li> Nemožete koristiti FPF više nego što je to dozvoljeno u dozvoli "
+"koju ste kupili.</li>\n"
+"\t\t<li>Cene su validne za primljene proizvode. Ne garanujemo vam nove "
+"updatove ali ćemo vas možda informisati o nečemu novom.</li>\n"
+"\t\t<li> Ne zaboravite da neposlušnost bilo kog od ovih pravila spada pod "
+"zločin i stavlja vas u nelegalu.</li>\n"
+"\t\t<li>Sa svim pravilima se složite kada kupite bilo koju verziju  Flash "
+"Page Flip.</li>\n"
+"\t</ul>"
+
+#: pageflip.php:340
+msgid "Acepto los terminos y condiciones"
+msgstr "Prihvatam uslove korišćenja"
+
+#: pageflip.php:341
+msgid ""
+"http://www.flashpageflip.com/downloads/FreeVersion/FlashPageFlip_FreeVersion."
+"zip"
+msgstr ""
+"http://www.flashpageflip.com/downloads/FreeVersion/FlashPageFlip_FreeVersion."
+"zip"
+
+#: pageflip.php:341
+msgid "Copia la url"
+msgstr "Copy i paste url ovde"
+
+#: pageflip.php:343
+msgid "Subir desde el computador"
+msgstr "upload sa vašeg komjutera"
